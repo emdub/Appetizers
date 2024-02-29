@@ -31,6 +31,7 @@
 		9AF164E32B8E76E900AD488B /* EmptyState.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AF164E22B8E76E900AD488B /* EmptyState.swift */; };
 		9AF164E52B8E7F7E00AD488B /* Order.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AF164E42B8E7F7E00AD488B /* Order.swift */; };
 		9AF164E72B8F982200AD488B /* CustomModifiers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AF164E62B8F982200AD488B /* CustomModifiers.swift */; };
+		9AF164EB2B901ED200AD488B /* Date+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AF164EA2B901ED200AD488B /* Date+Ext.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -59,6 +60,7 @@
 		9AF164E22B8E76E900AD488B /* EmptyState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmptyState.swift; sourceTree = "<group>"; };
 		9AF164E42B8E7F7E00AD488B /* Order.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Order.swift; sourceTree = "<group>"; };
 		9AF164E62B8F982200AD488B /* CustomModifiers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomModifiers.swift; sourceTree = "<group>"; };
+		9AF164EA2B901ED200AD488B /* Date+Ext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Date+Ext.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -170,6 +172,7 @@
 			isa = PBXGroup;
 			children = (
 				9AF164DD2B8E489C00AD488B /* String+Ext.swift */,
+				9AF164EA2B901ED200AD488B /* Date+Ext.swift */,
 			);
 			path = Extensions;
 			sourceTree = "<group>";
@@ -321,6 +324,7 @@
 				9AF164B62B89427F00AD488B /* Appetizer.swift in Sources */,
 				9AF164BC2B894A8600AD488B /* APError.swift in Sources */,
 				9AF164B82B8948CC00AD488B /* AppetizerListCell.swift in Sources */,
+				9AF164EB2B901ED200AD488B /* Date+Ext.swift in Sources */,
 				9AF164D82B8E3F0900AD488B /* APButton.swift in Sources */,
 				9AF164BE2B89505A00AD488B /* AppetizerListViewModel.swift in Sources */,
 				9AF164E52B8E7F7E00AD488B /* Order.swift in Sources */,
